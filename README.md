@@ -9,3 +9,4 @@ Content:
  - Reinforcement learning in a gridworld
 
 The produced code is inspired by that of the Artificial Intelligence: A Modern Approach, 4th US ed., by Stuart Russell and Peter Norvig.
+https://github.com/aimacode/aima-python
